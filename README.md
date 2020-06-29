@@ -1,1 +1,1 @@
-# cli_example
+# gitinit_cli
